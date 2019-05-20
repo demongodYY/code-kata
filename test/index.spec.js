@@ -34,5 +34,4 @@ describe('Anagram test', () => {
     anagram.getAnagrams().length.should.be.equal(5);
   });
 
-
 });
